@@ -1,0 +1,134 @@
+
+.text{
+    color: #707070;
+}
+.property{
+    color: #ADADAD;
+}
+.overview{
+    color: #535353;
+}
+.lorem{
+    color: #6C6C6C;
+}
+
+.bg{
+    background-color: #FFFFFF;
+    
+}
+
+.blue{
+    background-color: #0055A5;
+    /* position: relative; */
+}
+
+.icon{
+    color: #0055A5;
+    background-color: #FFFFFF;
+}
+.icon2{
+    color: #FFFFFF;
+    background-color: #0055A5;
+}
+
+.price{
+    background-color: #C7C7C7;
+}
+
+.b-2{
+    background-color: #FAFAFA;
+}
+
+.a{
+    border: 1px solid black;
+}
+
+.bg-2{
+    background-color: #F4F7FA;
+}
+.bg-3{
+    background-image: url('assets/Image\ 36.png');
+}
+.bg-4{
+    background-image: url('assets/Questions.png');
+}
+
+.sayı1{
+    color: #FFFFFF;
+    background-color: #0055A5;
+}
+.sayı2{
+    color: black;
+    background-color: yellow;
+}
+
+.review{
+    color: #777777;
+}
+.life{
+    color: #000000;
+    background-color: #FEF229;
+}
+.bg-life{
+    background-color: #FEF229;
+}
+
+.proceed{
+    color: #000000;
+    background-color:#FFFFFF;;
+}
+
+.footer{
+    background-color: #0055A5;
+}
+
+.r{
+    border: 1px solid rgb(64, 255, 0);
+    /* height: 500px; */
+}
+
+.right{
+    color: #0055A5;
+}
+
+.lis{
+    /* border: 1px solid red; */
+    /* background-image: url('assets/presantation-banner.png'); */
+    background-color: #0055A5;
+    
+}
+.lib{
+    /* border: 1px solid yellow; */
+    background-image: url('assets/presantation-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.imag{
+    
+    /* width:1500px; */
+    height:205px; 
+    object-fit:cover;
+    overflow:hidden;
+}
+.form{
+    height: 70px;
+}
+
+#more {display: none;}
+
+.homeimg{
+    background-color: #0055A5;
+}
+
+@media screen and (max-width:768px) {
+    .homeimg{
+        background-color: #fff;
+    }
+    .homeimg img{
+        width: 100% !important;
+        margin: 3rem auto;
+    }
+    
+}
